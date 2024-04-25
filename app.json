@@ -1,5 +1,7 @@
 {
   "expo": {
+    "scheme": "your-app-scheme",
+
     "name": "tp3",
     "slug": "tp3",
     "version": "1.0.0",
@@ -11,9 +13,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
